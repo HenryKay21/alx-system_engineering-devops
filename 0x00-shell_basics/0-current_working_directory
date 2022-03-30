@@ -1,1 +1,1 @@
-#!/bin/bash
+printf "Memory information\n"
