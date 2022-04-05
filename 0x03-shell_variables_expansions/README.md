@@ -1,1 +1,1 @@
-An alias command script!
+Creating various scripts which run various commands!
